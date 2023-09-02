@@ -1,1 +1,1 @@
-# minispring project is for personal practice getting familiar with the design and mechanisms in real Spring
+This is a test for Jenkins build
